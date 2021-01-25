@@ -16,7 +16,7 @@ public class Application
 
         int [] age = {31, 29, 22, 35, 30};
 
-        Person p = new Person();
+        Persons p = new Persons();
 
             for(int i=0; i<firstName.length; i++)
 
@@ -24,13 +24,13 @@ public class Application
                 p.addFirstName(firstName[i]);
                 p.addLastName(lastName[i]);
                 p.addAge(age[i]);
-                p.list.add(new Person(firstName[i], lastName[i], age[i]));
+                p.list.add(new Persons(firstName[i], lastName[i], age[i]));
 
             }
 
             //Set Data Structure
             Set set = new HashSet();
-            set.add(p.list.add(new Person("Junade", "Frizlar", 32)));
+            set.add(p.list.add(new Persons("Junade", "Frizlar", 32)));
 
             //Print the list before sorting
             System.out.println("Before sorting the list!\n*-*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*");

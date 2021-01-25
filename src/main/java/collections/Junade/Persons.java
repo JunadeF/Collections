@@ -3,22 +3,18 @@ package collections.Junade;
 
 import java.util.ArrayList;
 
-import java.util.Set;
-
-import java.util.HashSet;
-
-public class Person implements Comparable<Person>
+public class Persons implements Comparable<Persons>
 {
-    public ArrayList<Person> list = new ArrayList<>();
+    public ArrayList<Persons> list = new ArrayList<>();
     private String fName, lName;
     private int age;
 
-    public Person ()
+    public Persons()
     {
 
     }
 
-    public Person (String fnm, String snm, int ag)
+    public Persons(String fnm, String snm, int ag)
     {
         this.fName=fnm;
         this.lName=snm;
@@ -45,7 +41,7 @@ public class Person implements Comparable<Person>
         return "Names: " + fName + " " + lName + ", Ages: " + age;
     }
 
-    public int compareTo(Person nm)
+    public int compareTo(Persons nm)
     {
         return (this.fName).compareTo(nm.fName);
     }
