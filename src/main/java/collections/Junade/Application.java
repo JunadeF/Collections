@@ -28,7 +28,7 @@ public class Application
 
             }
 
-            //Set Data Structure
+            //Set data structure
             Set set = new HashSet();
             set.add(p.list.add(new Persons("Junade", "Frizlar", 32)));
 
@@ -42,7 +42,7 @@ public class Application
             System.out.println("");
 
             //Print the list after sorting
-            System.out.println("After sorting the list by first name!!!\n*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*");
+            System.out.println("After sorting the list by first name!\n*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*");
 
             System.out.println(p.list.toString());
 

@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f27b894-012c-4790-bbc5-7b41c8968488" name="Default Changelist" comment="First Commit">
+    <list default="true" id="5f27b894-012c-4790-bbc5-7b41c8968488" name="Default Changelist" comment="Second Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/collections/Junade/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/Junade/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/Junade/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/Junade/Persons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collections/Junade/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collections/Junade/PersonsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/Junade/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/Junade/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/Junade/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/collections/Junade/PersonTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
       <recent name="C:\Users\ldxd\Desktop\Git\Hash\Hash\src\main\java\org\Linton" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonsTest.testAddAge">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.Junade.Application" />
       <module name="Collections" />
@@ -138,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="JUnit.PersonsTest.testAddAge" />
         <item itemvalue="JUnit.PersonsTest.testAddLastName" />
         <item itemvalue="JUnit.PersonsTest.testAddFirstName" />
         <item itemvalue="JUnit.PersonsTest" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611592365653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit">
+      <created>1611592915655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611592915655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611592404227">
@@ -190,25 +193,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="836" y="418" key="Github.ShareDialog/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592786422" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611592513540">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611601869448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592513540" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611592513540">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611601869448" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611601869447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592513540" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611592513540">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611601869447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611601869447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592513540" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611592513540">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611601869447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611601869448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592513540" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611592656349">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611601869448" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611592937868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592656349" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1611592937868" />
   </component>
 </project>
